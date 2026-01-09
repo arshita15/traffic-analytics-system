@@ -214,7 +214,8 @@ Includes:
 
 This README provides an overview of the project structure and usage.  
 The current implementation performs inference on CPU, which can result in longer processing times for high-resolution videos.
-The detailed project report is available in the `report/` directory..
+The detailed project report is available in the `report/` directory.
+
 
 
 
