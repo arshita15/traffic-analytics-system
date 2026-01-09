@@ -39,7 +39,7 @@ The system performs vehicle detection, tracking, direction analysis, speed estim
 ---
 
 ## 📁 Project Structure
-
+```
 traffic-analytics-system/
 │
 ├── src/
@@ -66,7 +66,7 @@ traffic-analytics-system/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## 🧰 Technologies Used
@@ -212,6 +212,7 @@ Includes:
 This README provides an overview of the project structure and usage.  
 The current implementation performs inference on CPU, which can result in longer processing times for high-resolution videos.
 Detailed methodology, assumptions, and evaluation are documented separately.
+
 
 
 
