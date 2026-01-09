@@ -62,6 +62,9 @@ traffic-analytics-system/
 │   ├── results.csv
 │   └── speed_summary.csv
 │
+├──report/
+│   └── Traffic_Analytics_System_Report.pdf
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -211,7 +214,8 @@ Includes:
 
 This README provides an overview of the project structure and usage.  
 The current implementation performs inference on CPU, which can result in longer processing times for high-resolution videos.
-Detailed methodology, assumptions, and evaluation are documented separately.
+The detailed project report is available in the `report/` directory..
+
 
 
 
